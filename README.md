@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/emmanuel-fordjour/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="[YOUR_YOUTUBE_URL](https://www.youtube.com/@DevOpsWithEmma)">
+  <a href="https://www.youtube.com/@DevOpsWithEmma">
     <img src="https://img.shields.io/badge/YouTube-DevOps%20Content-red?style=for-the-badge&logo=youtube" />
   </a>
 </p>
@@ -184,8 +184,8 @@ I enjoy collaborating on projects involving automation, cloud infrastructure, an
 
 ## 📫 Let's Connect
 
-LinkedIn: YOUR_LINKEDIN_URL
+LinkedIn: [LINKEDIN](https://www.linkedin.com/in/emmanuel-fordjour/)
 
-YouTube: YOUR_YOUTUBE_URL
+YouTube: [YOUTUBE](https://www.youtube.com/@DevOpsWithEmma)
 
 Email: YOUR_EMAIL
